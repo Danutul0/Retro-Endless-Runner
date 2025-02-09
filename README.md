@@ -3,6 +3,8 @@
 **Retro Runner** is a retro-themed endless runner game where players collect coins and aim for the highest score by running as far as possible on a procedurally generated map. The game features a classic arcade aesthetic with bright neon colors and engaging gameplay mechanics.  
 
 ---
+# Screenshots
+![Image Alt]([image_url](https://github.com/Danutul0/Retro-Endless-Runner/blob/a2c171fa510ecb7f86f1fb3c8b198b6d75ea7e32/ss1.jpg))
 
 ## Features  
 
