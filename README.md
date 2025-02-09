@@ -4,7 +4,7 @@
 
 ---
 # Screenshots
-![Image Alt]([image_url](https://github.com/Danutul0/Retro-Endless-Runner/blob/a2c171fa510ecb7f86f1fb3c8b198b6d75ea7e32/ss1.jpg))
+![image alt](https://github.com/Danutul0/Retro-Endless-Runner/blob/a2c171fa510ecb7f86f1fb3c8b198b6d75ea7e32/ss1.jpg)
 
 ## Features  
 
